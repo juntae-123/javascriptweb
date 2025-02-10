@@ -1,0 +1,18 @@
+ul {
+  display: flex;
+}
+li {
+  padding: 0px 30px;
+}
+.red {
+  background-color: red;
+}
+.blue {
+  background-color: blue;
+}
+.green {
+  background-color: green;
+}
+.yellow {
+  background-color: yellow;
+}

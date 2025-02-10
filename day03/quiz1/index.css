@@ -1,0 +1,15 @@
+.page {
+}
+ul {
+  display: flex;
+}
+li {
+  padding: 0px 15px;
+}
+button {
+  background-color: white;
+  border: none;
+}
+.dot {
+  list-style-type: none;
+}
